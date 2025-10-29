@@ -50,6 +50,7 @@ IDE - 	VS Code
 
 
 Application Flow
+
 Step 1: Input Validation
 
 User enters loan-related details such as age, income, loan amount, credit score, and years of employment.
