@@ -35,9 +35,30 @@ Predicts instantly whether a loan will be approved or not based on user inputs.
 Tech Stack
 
 Programming Language - Python
+
 ML Libraries	- Scikit-learn, Pandas, NumPy
+
 Frontend	- HTML, CSS (via Flask Templates)
+
 Backend	- Flask (Python Web Framework)
+
 Data Handling	- Pandas, CSV
+
 Visualization	- Matplotlib
+
 IDE - 	VS Code 
+
+
+Application Flow
+Step 1: Input Validation
+
+User enters loan-related details such as age, income, loan amount, credit score, and years of employment.
+If invalid data is entered, an alert guides the user to correct it (as shown in screenshots).
+
+Step 2: Model Selection
+
+Choose from different ML algorithms and instantly view model metrics.
+
+Step 3: Loan Status Prediction
+
+Displays whether the loan is likely to be approved or rejected along with performance statistics.
